@@ -1,0 +1,55 @@
+#menubar {
+	width: 75%;
+	height: 35px;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	background-color: #0092d9;
+	border-radius: 0px;
+	margin: 0px auto;
+}
+
+#menubar ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menubar li {
+	display: inline;
+	padding: 20px;
+}
+
+#menubar a {
+    text-decoration: none;
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+}
+
+#menubar a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+
+#wrap {
+	width: 20%;
+	display: inline;
+	margin: 0 auto;
+
+}
+
+.left {
+	width: 30%;
+	background-color: #000000;
+	height: 120px;
+	float: left;
+
+
+}
+
+.right {
+	width: 30%;
+	background-color: #000000;
+	height: 120px;
+	
+}
