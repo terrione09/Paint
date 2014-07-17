@@ -1,0 +1,69 @@
+#site {
+	text-align: center;
+	margin: 0px auto;
+}
+
+#menubar {
+	width: 900px;
+	height: 35px;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	background-color: #0092d9;
+	border-radius: 0px;
+	margin: 0px auto;
+}
+
+#menubar ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menubar li {
+	display: inline;
+	padding: 20px;
+}
+
+#menubar a {
+    text-decoration: none;
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+}
+
+#menubar a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+
+#wrap {
+	width: 900px;
+	text-align: center;
+	margin: 0px auto;
+}
+
+#sidebar {
+	float: left; 
+	width: 400px; 
+	
+	
+}
+
+
+#content {	
+	float: right;
+	width: 500px;
+		
+
+}
+h3 a {
+display: block;
+color: #fff;
+padding: 6px 0;
+zoom: 1;
+text-decoration: none;
+background: #990000;
+}
+h2 {
+	text-align: left;
+}
